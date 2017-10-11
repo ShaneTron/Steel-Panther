@@ -1,16 +1,24 @@
 img {
   float: left;
+  padding: 10px;
 }
 
 .sidebar {
   float: right;
+  margin: 12px;
+  border: 20px solid yellow;
+  padding: 8px;
   background-color: blue;
   font-size: 50px;
 }
 
 .paragraphs {
-  width: 100px;
+  width: 150px;
   float: left;
+  border: 10px solid purple;
+  padding: 4px;
+  margin: 8px;
+  text-align: center;
 }
 
 h2 {
