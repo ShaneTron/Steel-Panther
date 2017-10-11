@@ -1,0 +1,20 @@
+img {
+  float: left;
+}
+
+.sidebar {
+  float: right;
+  background-color: blue;
+  font-size: 50px;
+}
+
+.paragraphs {
+  width: 100px;
+  float: left;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 20px;
+  color: purple;
+}
